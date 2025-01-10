@@ -1,7 +1,6 @@
 ## Hi! I'm Bruno Rezende 👋
 
 - 🔭 I’m currently working on personal projects
-- 🌱 I’m currently learning Python
 
 <div>
   <a href="https://github.com/bfrezende/">
